@@ -26,3 +26,6 @@ Feel free to contribute to this project by suggesting improvements, adding new f
 ## Credits:
 
 This project was inspired by the Netflix homepage design.
+
+## Link:
+https://nisargparmar11.github.io/netflix-clone/
